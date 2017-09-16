@@ -231,6 +231,43 @@ Media Queries
 
 ===========================*/
 @media screen and (max-width: 980px){
+	#wrapper{
+		margin:0;
+	}
+
+	h1{
+		font-size:50px;
+		margin-left:150px;
+	}
+
+	nav{
+		margin-right:50px;
+	}
+	section,aside{
+		background-color:white;
+		margin-top:85px;
+
+	}
+
+	#profilePic{
+		float:none;
+		width:300px;
+		padding-left:20px;
+		margin-bottom:15px;
+
+	}
+
+	section{
+		margin-left:150px;
+		width:350px;
+
+	}
+
+
+	aside{
+		margin-right:50px;
+	}
+
 
 }
 
@@ -289,8 +326,6 @@ Media Queries
     width: 280px;
     float:left;
 	}
-
-	
 
 	.row:after { 
    content: "."; 
