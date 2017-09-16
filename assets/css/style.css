@@ -342,7 +342,52 @@ Media Queries
 	header{
 		position: static;
 	}
+
+	h1{
+		margin:0;
+		display:block;
+		text-align:center;
+		padding-bottom:10px;
+	}
 	
+	nav{
+		float:none;
+		background-color:white;
+		margin-top:20px;
+		padding-bottom:20px;
+	}
+
+	ul{
+		margin-left:150px;
+	}
+
+	#profilePic{
+		float:none;
+		width:300px;
+		padding-left:25px;
+		margin-bottom:15px;
+		margin-left:20px;
+	}
+
+	section{
+		float:none;
+		width:400px;
+		background-color:white;
+		 margin-left: auto;
+		 margin-right:auto;
+	}
+
+	section p{
+		padding:15px;
+	}
+
+
+/*
+	#socialMedia{
+		padding:0;
+	}
+
+	*/
 }
 
 
