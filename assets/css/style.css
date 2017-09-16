@@ -6,10 +6,10 @@ Universal Styles
 body{
 	background-image: url("../images/whirlpool.png");
 	height: 100%;
-	/*
+	
 	display: flex;
   	flex-direction: column;
-  	*/
+  	
 }
 header{
 	height:85px;
@@ -62,7 +62,7 @@ p{
 	max-width:960px;
 	margin-top: 40px;
 	margin-left:180px;
-	/*flex: 1 0 auto;*/
+	flex: 1 0 auto;
 
 }
 
@@ -369,25 +369,33 @@ Media Queries
 		margin-left:20px;
 	}
 
-	section{
+	section,aside{
 		float:none;
-		width:400px;
+		width:500px;
 		background-color:white;
 		 margin-left: auto;
 		 margin-right:auto;
+	}
+
+	aside{
+		padding:0 15px 0 15px;
 	}
 
 	section p{
 		padding:15px;
 	}
 
-
-/*
-	#socialMedia{
-		padding:0;
+	section img{
+		margin-left:auto;
+		margin-right:auto;
 	}
 
-	*/
+
+	#socialMedia{
+		margin:0;
+	}
+
+	
 }
 
 
