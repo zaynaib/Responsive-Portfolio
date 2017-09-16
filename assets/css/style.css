@@ -366,7 +366,7 @@ Media Queries
 		width:300px;
 		padding-left:25px;
 		margin-bottom:15px;
-		margin-left:20px;
+		margin-left:75px;
 	}
 
 	section,aside{
@@ -395,6 +395,16 @@ Media Queries
 		margin:0;
 	}
 
+	#socialMedia img{
+		width:65px;
+	}
+
+/*================
+Gallery Pics
+================*/
+.row img{
+	width:460px;
+}
 	
 }
 
