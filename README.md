@@ -28,6 +28,6 @@ Folder Structure
 
 [Link to Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)
 
-[Link to Basic Portfolio Page](https://zaynaib.github.io/Basic-Portfolio/)
+[Link to Responsive Portfolio Page](https://zaynaib.github.io/Responsive-Portfolio/)
 
 
